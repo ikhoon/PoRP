@@ -10,3 +10,6 @@ Source code: [quickcheck/QuickCheck.scala](https://github.com/ikhoon/PoRP/blob/m
 
 ### Week 2: Calculator
 Source code: [calculator/Calculator.scala](https://github.com/ikhoon/PoRP/blob/master/calculator/src/main/scala/calculator/Calculator.scala), [calculator/TweetLength.scala](https://github.com/ikhoon/PoRP/blob/master/calculator/src/main/scala/calculator/TweetLength.scala)
+
+### Week 3: NodeScala
+Source code: [nodescala/nodescala.scala](https://github.com/ikhoon/PoRP/blob/master/nodescala/src/main/scala/nodescala/nodescala.scala), [nodescala/package.scala](https://github.com/ikhoon/PoRP/blob/master/nodescala/src/main/scala/nodescala/package.scala)
