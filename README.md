@@ -13,3 +13,6 @@ Source code: [calculator/Calculator.scala](https://github.com/ikhoon/PoRP/blob/m
 
 ### Week 3: NodeScala
 Source code: [nodescala/nodescala.scala](https://github.com/ikhoon/PoRP/blob/master/nodescala/src/main/scala/nodescala/nodescala.scala), [nodescala/package.scala](https://github.com/ikhoon/PoRP/blob/master/nodescala/src/main/scala/nodescala/package.scala)
+
+### Week 4: Wikipedia Suggestions
+Source code: [suggestions/gui/SwingApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/SwingApi.scala), [suggestions/gui/WikipediaApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala), [suggestions/gui/WikipediaApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala)
