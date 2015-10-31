@@ -16,3 +16,6 @@ Source code: [nodescala/nodescala.scala](https://github.com/ikhoon/PoRP/blob/mas
 
 ### Week 4: Wikipedia Suggestions
 Source code: [suggestions/gui/SwingApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/SwingApi.scala), [suggestions/gui/WikipediaApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala), [suggestions/gui/WikipediaApi.scala](https://github.com/ikhoon/PoRP/blob/master/suggestions/src/main/scala/suggestions/gui/WikipediaApi.scala)
+
+### Week 5: Actor Binary Tree
+Source code: [actorbintree/BinaryTreeSet.scala](https://github.com/ikhoon/PoRP/blob/master/actorbintree/src/main/scala/actorbintree/BinaryTreeSet.scala)
